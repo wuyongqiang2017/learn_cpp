@@ -20,5 +20,10 @@ int main() {
 //    day1::func_for_2();
 //    day1::func_for_3();
 //    day1::func_goto();
-    day1::func_array();
+//    day1::func_array();
+//    day1::func_array_test1();
+//    day1::func_array_test2();
+//    day1::bubble_sorting();
+//    day1::array_two();
+    day1::arry_two_test();
 }
