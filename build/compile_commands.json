@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/data/cpp_work/learn_cpp/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/learn_cpp.dir/main.cpp.o -c /data/cpp_work/learn_cpp/main.cpp",
+  "file": "/data/cpp_work/learn_cpp/main.cpp"
+},
+{
+  "directory": "/data/cpp_work/learn_cpp/build",
+  "command": "/usr/bin/g++   -g -std=gnu++14 -o CMakeFiles/learn_cpp.dir/day1/swap1.cpp.o -c /data/cpp_work/learn_cpp/day1/swap1.cpp",
+  "file": "/data/cpp_work/learn_cpp/day1/swap1.cpp"
+}
+]

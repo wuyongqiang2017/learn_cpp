@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/learn_cpp.dir/main.cpp.o CMakeFiles/learn_cpp.dir/day1/swap1.cpp.o -o learn_cpp 

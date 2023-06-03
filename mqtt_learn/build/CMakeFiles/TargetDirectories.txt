@@ -1,0 +1,3 @@
+/data/cpp_work/learn_cpp/mqtt_learn/build/CMakeFiles/mqtt_learn_runner.dir
+/data/cpp_work/learn_cpp/mqtt_learn/build/CMakeFiles/edit_cache.dir
+/data/cpp_work/learn_cpp/mqtt_learn/build/CMakeFiles/rebuild_cache.dir

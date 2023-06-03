@@ -1,0 +1,3 @@
+/data/cpp_work/learn_cpp/build/CMakeFiles/learn_cpp.dir
+/data/cpp_work/learn_cpp/build/CMakeFiles/edit_cache.dir
+/data/cpp_work/learn_cpp/build/CMakeFiles/rebuild_cache.dir

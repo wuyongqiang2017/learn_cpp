@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/mqtt_learn_runner.dir/main.cpp.o"
+  "CMakeFiles/mqtt_learn_runner.dir/main.cpp.o.d"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/act_status.pb.cc.o"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/act_status.pb.cc.o.d"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/align.pb.cc.o"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/align.pb.cc.o.d"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/arrive_status.pb.cc.o"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/arrive_status.pb.cc.o.d"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/attendance.pb.cc.o"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/attendance.pb.cc.o.d"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/charger_info.pb.cc.o"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/charger_info.pb.cc.o.d"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/container.pb.cc.o"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/container.pb.cc.o.d"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/enums.pb.cc.o"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/enums.pb.cc.o.d"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/fault_info.pb.cc.o"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/fault_info.pb.cc.o.d"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/header.pb.cc.o"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/header.pb.cc.o.d"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/navi.pb.cc.o"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/navi.pb.cc.o.d"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/point.pb.cc.o"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/point.pb.cc.o.d"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/qc_status.pb.cc.o"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/qc_status.pb.cc.o.d"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/remote_control.pb.cc.o"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/remote_control.pb.cc.o.d"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/reply.pb.cc.o"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/reply.pb.cc.o.d"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/task.pb.cc.o"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/task.pb.cc.o.d"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/task_control.pb.cc.o"
+  "CMakeFiles/mqtt_learn_runner.dir/trunk_protos_cpp/common/task_control.pb.cc.o.d"
+  "mqtt_learn_runner"
+  "mqtt_learn_runner.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/mqtt_learn_runner.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

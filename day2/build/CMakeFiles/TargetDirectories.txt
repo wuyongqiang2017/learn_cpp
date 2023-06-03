@@ -1,0 +1,3 @@
+/data/cpp_work/learn_cpp/day2/build/CMakeFiles/day2_runner.dir
+/data/cpp_work/learn_cpp/day2/build/CMakeFiles/edit_cache.dir
+/data/cpp_work/learn_cpp/day2/build/CMakeFiles/rebuild_cache.dir

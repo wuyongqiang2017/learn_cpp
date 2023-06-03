@@ -1,0 +1,3 @@
+/data/cpp_work/learn_cpp/huang/build/CMakeFiles/huang_runner.dir
+/data/cpp_work/learn_cpp/huang/build/CMakeFiles/edit_cache.dir
+/data/cpp_work/learn_cpp/huang/build/CMakeFiles/rebuild_cache.dir

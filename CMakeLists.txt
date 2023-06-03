@@ -3,4 +3,4 @@ project(learn_cpp)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(learn_cpp main.cpp)
+add_executable(learn_cpp main.cpp day1/swap1.cpp)
